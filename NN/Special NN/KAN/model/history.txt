@@ -1,0 +1,5 @@
+### Round 0 ###
+init => 0.0
+0.0 => remove_node => 0.1
+0.1 => remove_node => 0.2
+0.2 => remove_node => 0.3
