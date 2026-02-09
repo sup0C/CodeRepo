@@ -137,7 +137,7 @@ if __name__ == '__main__':
 
     # 4 训练
     print("训练贝叶斯神经网络...")
-    train_model(model, train_loader, optimizer, criterion, epochs=400)
+    train_model(model, train_loader, optimizer, criterion, epochs=100)
 
     # 5 测试
     print("评估模型...")
